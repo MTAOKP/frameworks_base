@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/effects/ogg/VolumeIncremental.ogg:system/media/audio/ui/VolumeIncremental.ogg \
 
 # Notifications
-PRODUCT_COPY_FILES += \
+#PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/notifications/ogg/Adara.ogg:system/media/audio/notifications/Adara.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Aldebaran.ogg:system/media/audio/notifications/Aldebaran.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Altair.ogg:system/media/audio/notifications/Altair.ogg \
@@ -59,7 +59,7 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/notifications/ogg/Vega.ogg:system/media/audio/notifications/Vega.ogg
 
 # Ringtones
-PRODUCT_COPY_FILES += \
+#PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/ringtones/ogg/Acheron.ogg:system/media/audio/ringtones/Acheron.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Andromeda.ogg:system/media/audio/ringtones/Andromeda.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Aquila.ogg:system/media/audio/ringtones/Aquila.ogg \
